@@ -1,3 +1,6 @@
+![接线图](https://user-images.githubusercontent.com/34038936/215248605-80b88f99-7498-459f-b13d-9e4523e1b12c.jpg)
+[点灯科技界面配置代码.txt](https://github.com/652436962/-/files/10526047/default.txt)
+[更新说明.txt](https://github.com/652436962/-/files/10526048/default.txt)
 # -
 小车2.1源码及资料 esp32 l298n
 V2.0:
