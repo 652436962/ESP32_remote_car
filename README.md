@@ -1,3 +1,4 @@
+原作者链接https://www.bilibili.com/video/BV1ya411Q7Zh/?spm_id_from=333.788.recommend_more_video.2
 ![接线图](https://user-images.githubusercontent.com/34038936/215248605-80b88f99-7498-459f-b13d-9e4523e1b12c.jpg)
 [点灯科技界面配置代码.txt](https://github.com/652436962/-/files/10526047/default.txt)
 
